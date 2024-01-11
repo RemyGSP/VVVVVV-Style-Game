@@ -1,0 +1,7188 @@
+fileFormatVersion: 2
+guid: c8b97ade840430843be081df4cb6e998
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1638705625034182175
+    second: terraria_0
+  - first:
+      213: -5698907146705813547
+    second: terraria_1
+  - first:
+      213: -719909980754525345
+    second: terraria_2
+  - first:
+      213: 4405398663572891088
+    second: terraria_3
+  - first:
+      213: -9179480204903816624
+    second: terraria_4
+  - first:
+      213: 7447477309385730341
+    second: terraria_5
+  - first:
+      213: 2725062006946436739
+    second: terraria_6
+  - first:
+      213: 1731113440146347183
+    second: terraria_7
+  - first:
+      213: 6595864357071910284
+    second: terraria_8
+  - first:
+      213: -7825962871507781681
+    second: terraria_9
+  - first:
+      213: 3945915370934461683
+    second: terraria_10
+  - first:
+      213: -875532800395524819
+    second: terraria_11
+  - first:
+      213: -2709888333320682869
+    second: terraria_12
+  - first:
+      213: 2712029419578047210
+    second: terraria_13
+  - first:
+      213: 4219480402677712679
+    second: terraria_14
+  - first:
+      213: -2164827733327227206
+    second: terraria_15
+  - first:
+      213: 51042333402961627
+    second: terraria_16
+  - first:
+      213: -1845488136320248515
+    second: terraria_17
+  - first:
+      213: -2298761872167208820
+    second: terraria_18
+  - first:
+      213: -5659739069868874301
+    second: terraria_19
+  - first:
+      213: 3683928411335503583
+    second: terraria_20
+  - first:
+      213: -5649119251327629938
+    second: terraria_21
+  - first:
+      213: 3669499365926464862
+    second: terraria_22
+  - first:
+      213: -2879294512549791276
+    second: terraria_23
+  - first:
+      213: -4272725309501410952
+    second: terraria_24
+  - first:
+      213: 758155190838683000
+    second: terraria_25
+  - first:
+      213: -7529810296752801719
+    second: terraria_26
+  - first:
+      213: 2426732880862794653
+    second: terraria_27
+  - first:
+      213: -3364828107216867155
+    second: terraria_28
+  - first:
+      213: -3908768511824446507
+    second: terraria_29
+  - first:
+      213: 2713081049334654480
+    second: terraria_30
+  - first:
+      213: -7224401957604880359
+    second: terraria_31
+  - first:
+      213: 2098411818343846289
+    second: terraria_32
+  - first:
+      213: -4361083119061350272
+    second: terraria_33
+  - first:
+      213: 7377291422273487588
+    second: terraria_34
+  - first:
+      213: -4670916953604275216
+    second: terraria_35
+  - first:
+      213: -4486779938563069175
+    second: terraria_36
+  - first:
+      213: 1431522659196065965
+    second: terraria_37
+  - first:
+      213: -4207585516241802222
+    second: terraria_38
+  - first:
+      213: 655738180151292033
+    second: terraria_39
+  - first:
+      213: -1040503217329365772
+    second: terraria_40
+  - first:
+      213: 6058588765256521322
+    second: terraria_41
+  - first:
+      213: -3734668750488775758
+    second: terraria_42
+  - first:
+      213: -5169832594807059528
+    second: terraria_43
+  - first:
+      213: 4680928004800637863
+    second: terraria_44
+  - first:
+      213: 5141169011490966440
+    second: terraria_45
+  - first:
+      213: 1339307026673623403
+    second: terraria_46
+  - first:
+      213: -115745419317333660
+    second: terraria_47
+  - first:
+      213: 5012643640502545795
+    second: terraria_48
+  - first:
+      213: 1813080681833852250
+    second: terraria_49
+  - first:
+      213: 4023109297973235781
+    second: terraria_50
+  - first:
+      213: 7499661510378253507
+    second: terraria_51
+  - first:
+      213: -5684990023617856574
+    second: terraria_52
+  - first:
+      213: -5990732351358899502
+    second: terraria_53
+  - first:
+      213: -4424972375624855287
+    second: terraria_54
+  - first:
+      213: -9104761149564068150
+    second: terraria_55
+  - first:
+      213: 7184111291962556469
+    second: terraria_56
+  - first:
+      213: -1101047375132995662
+    second: terraria_57
+  - first:
+      213: 8973205839275757565
+    second: terraria_58
+  - first:
+      213: 8255516643930421534
+    second: terraria_59
+  - first:
+      213: -8434652460648362292
+    second: terraria_60
+  - first:
+      213: 2874922013651225055
+    second: terraria_61
+  - first:
+      213: -6532234915585076925
+    second: terraria_62
+  - first:
+      213: 825899290855879200
+    second: terraria_63
+  - first:
+      213: 5702463002572621668
+    second: terraria_64
+  - first:
+      213: 8938057532454984170
+    second: terraria_65
+  - first:
+      213: -2489356057973368092
+    second: terraria_66
+  - first:
+      213: 6173785952982909452
+    second: terraria_67
+  - first:
+      213: -3822119517532556802
+    second: terraria_68
+  - first:
+      213: 4668598034957827
+    second: terraria_69
+  - first:
+      213: -7563578412463608790
+    second: terraria_70
+  - first:
+      213: 8615856727582810847
+    second: terraria_71
+  - first:
+      213: -7896683248296475407
+    second: terraria_72
+  - first:
+      213: -772010663484759284
+    second: terraria_73
+  - first:
+      213: 5393311648662487187
+    second: terraria_74
+  - first:
+      213: 1094642406845848820
+    second: terraria_75
+  - first:
+      213: 5206476476535722768
+    second: terraria_76
+  - first:
+      213: 306001512359034820
+    second: terraria_77
+  - first:
+      213: 3177531624993083933
+    second: terraria_78
+  - first:
+      213: 8372470129317194271
+    second: terraria_79
+  - first:
+      213: 3328976336734364668
+    second: terraria_80
+  - first:
+      213: -8380455069008487436
+    second: terraria_81
+  - first:
+      213: -2236831064676795784
+    second: terraria_82
+  - first:
+      213: -4575818816743218288
+    second: terraria_83
+  - first:
+      213: 5659441932005028258
+    second: terraria_84
+  - first:
+      213: -1869642101577336235
+    second: terraria_85
+  - first:
+      213: -3915312386797789067
+    second: terraria_86
+  - first:
+      213: -5919730800086744367
+    second: terraria_87
+  - first:
+      213: -3325802122457155661
+    second: terraria_88
+  - first:
+      213: -6799015589779090756
+    second: terraria_89
+  - first:
+      213: -3030509130761543925
+    second: terraria_90
+  - first:
+      213: 2808269031615649754
+    second: terraria_91
+  - first:
+      213: -3225874503843620548
+    second: terraria_92
+  - first:
+      213: -4198834817159536821
+    second: terraria_93
+  - first:
+      213: -6956919245934780964
+    second: terraria_94
+  - first:
+      213: -191434498598372070
+    second: terraria_95
+  - first:
+      213: -1810827708309367728
+    second: terraria_96
+  - first:
+      213: 7626295335177980824
+    second: terraria_97
+  - first:
+      213: 2446194136889950596
+    second: terraria_98
+  - first:
+      213: -6111174154915095920
+    second: terraria_99
+  - first:
+      213: 6313895146538557683
+    second: terraria_100
+  - first:
+      213: -5414971700842003807
+    second: terraria_101
+  - first:
+      213: -9129664517286446078
+    second: terraria_102
+  - first:
+      213: -4054663193667016454
+    second: terraria_103
+  - first:
+      213: -8140525564833168743
+    second: terraria_104
+  - first:
+      213: -3547677494837134078
+    second: terraria_105
+  - first:
+      213: -6525947394803167275
+    second: terraria_106
+  - first:
+      213: 6749617331449291657
+    second: terraria_107
+  - first:
+      213: 4990028648023517852
+    second: terraria_108
+  - first:
+      213: 1936248169916404069
+    second: terraria_109
+  - first:
+      213: 7050356771770349532
+    second: terraria_110
+  - first:
+      213: -8584537990254725570
+    second: terraria_111
+  - first:
+      213: 7693995666746682483
+    second: terraria_112
+  - first:
+      213: 3242590621019799514
+    second: terraria_113
+  - first:
+      213: 6981486888265549952
+    second: terraria_114
+  - first:
+      213: -1582145157656658231
+    second: terraria_115
+  - first:
+      213: -4165914397688989251
+    second: terraria_116
+  - first:
+      213: 1117585012541441894
+    second: terraria_117
+  - first:
+      213: 4984897138931633670
+    second: terraria_118
+  - first:
+      213: 767058696282432542
+    second: terraria_119
+  - first:
+      213: 3865432655749942121
+    second: terraria_120
+  - first:
+      213: 6157530776374099097
+    second: terraria_121
+  - first:
+      213: 2369616295506207337
+    second: terraria_122
+  - first:
+      213: 587147250783444588
+    second: terraria_123
+  - first:
+      213: -4788499645731040767
+    second: terraria_124
+  - first:
+      213: 1680043590548007884
+    second: terraria_125
+  - first:
+      213: 2995249677789427638
+    second: terraria_126
+  - first:
+      213: 912372385189029717
+    second: terraria_127
+  - first:
+      213: -3596464947452634595
+    second: terraria_128
+  - first:
+      213: -686687389822609700
+    second: terraria_129
+  - first:
+      213: -6596521507122399943
+    second: terraria_130
+  - first:
+      213: 2705238959862891132
+    second: terraria_131
+  - first:
+      213: -2846197177700154833
+    second: terraria_132
+  - first:
+      213: 1761646599565342381
+    second: terraria_133
+  - first:
+      213: -8586079982315429514
+    second: terraria_134
+  - first:
+      213: 8515795477090364736
+    second: terraria_135
+  - first:
+      213: 8731216653027757914
+    second: terraria_136
+  - first:
+      213: 5270237550353236509
+    second: terraria_137
+  - first:
+      213: -4117406727148364741
+    second: terraria_138
+  - first:
+      213: -5735334479973422742
+    second: terraria_139
+  - first:
+      213: -8132447383773186030
+    second: terraria_140
+  - first:
+      213: 6685680267610036047
+    second: terraria_141
+  - first:
+      213: -2984229523037747648
+    second: terraria_142
+  - first:
+      213: -5642099839057292559
+    second: terraria_143
+  - first:
+      213: -3230832596145778202
+    second: terraria_144
+  - first:
+      213: 812471156043223476
+    second: terraria_145
+  - first:
+      213: 5703667823599450158
+    second: terraria_146
+  - first:
+      213: 4495306154737018659
+    second: terraria_147
+  - first:
+      213: 8408652013544375359
+    second: terraria_148
+  - first:
+      213: -7059870366068628118
+    second: terraria_149
+  - first:
+      213: 6765617448471584055
+    second: terraria_150
+  - first:
+      213: 8181041363597875003
+    second: terraria_151
+  - first:
+      213: -7236275760404903494
+    second: terraria_152
+  - first:
+      213: -1106403107188439214
+    second: terraria_153
+  - first:
+      213: -8742344241194225422
+    second: terraria_154
+  - first:
+      213: 7206809752081028549
+    second: terraria_155
+  - first:
+      213: -6636996037128714473
+    second: terraria_156
+  - first:
+      213: -4444498953621075785
+    second: terraria_157
+  - first:
+      213: 9127584714808513507
+    second: terraria_158
+  - first:
+      213: -5207094318701690538
+    second: terraria_159
+  - first:
+      213: -4501685013618180268
+    second: terraria_160
+  - first:
+      213: 2544178411357645761
+    second: terraria_161
+  - first:
+      213: 8017097649344787255
+    second: terraria_162
+  - first:
+      213: 4806053912981257306
+    second: terraria_163
+  - first:
+      213: 3432068662680246430
+    second: terraria_164
+  - first:
+      213: -4616493662956565455
+    second: terraria_165
+  - first:
+      213: 7133525354734884370
+    second: terraria_166
+  - first:
+      213: -4416363044421453280
+    second: terraria_167
+  - first:
+      213: 4348835710550572307
+    second: terraria_168
+  - first:
+      213: -1628776095222693076
+    second: terraria_169
+  - first:
+      213: 1675157311604552165
+    second: terraria_170
+  - first:
+      213: -8058980385716489466
+    second: terraria_171
+  - first:
+      213: -3807721059310587974
+    second: terraria_172
+  - first:
+      213: 1507396224215714867
+    second: terraria_173
+  - first:
+      213: 5175198810900768529
+    second: terraria_174
+  - first:
+      213: -4315706648219354442
+    second: terraria_175
+  - first:
+      213: 2168028911552467058
+    second: terraria_176
+  - first:
+      213: -1826616071485459322
+    second: terraria_177
+  - first:
+      213: 5109291777671401065
+    second: terraria_178
+  - first:
+      213: 943937945599613188
+    second: terraria_179
+  - first:
+      213: 6334563466108124441
+    second: terraria_180
+  - first:
+      213: 3374489382457377545
+    second: terraria_181
+  - first:
+      213: -2750627508157932102
+    second: terraria_182
+  - first:
+      213: 3642813501102257048
+    second: terraria_183
+  - first:
+      213: 2182135526172890633
+    second: terraria_184
+  - first:
+      213: 6780889603299454478
+    second: terraria_185
+  - first:
+      213: -1956345107518329822
+    second: terraria_186
+  - first:
+      213: -1910005700660930569
+    second: terraria_187
+  - first:
+      213: 3404435693647756943
+    second: terraria_188
+  - first:
+      213: -2212462879044489720
+    second: terraria_189
+  - first:
+      213: -4921183384209942416
+    second: terraria_190
+  - first:
+      213: -3784494669857983764
+    second: terraria_191
+  - first:
+      213: -1059824737050063564
+    second: terraria_192
+  - first:
+      213: 4602926271517108650
+    second: terraria_193
+  - first:
+      213: 7619966006765741116
+    second: terraria_194
+  - first:
+      213: 7372947949034676683
+    second: terraria_195
+  - first:
+      213: -1236385803340715862
+    second: terraria_196
+  - first:
+      213: -7828286165633262883
+    second: terraria_197
+  - first:
+      213: -267772718746380339
+    second: terraria_198
+  - first:
+      213: -4254308670760397884
+    second: terraria_199
+  - first:
+      213: -7097397060373771498
+    second: terraria_200
+  - first:
+      213: 559581328363479534
+    second: terraria_201
+  - first:
+      213: -8385847677007009567
+    second: terraria_202
+  - first:
+      213: 5806407595101552851
+    second: terraria_203
+  - first:
+      213: -8938269197762875738
+    second: terraria_204
+  - first:
+      213: -2848324499654019544
+    second: terraria_205
+  - first:
+      213: -4506821134328893569
+    second: terraria_206
+  - first:
+      213: 856684726225552085
+    second: terraria_207
+  - first:
+      213: 7009823544288965515
+    second: terraria_208
+  - first:
+      213: 2253062474525309280
+    second: terraria_209
+  - first:
+      213: 8606998987540116893
+    second: terraria_210
+  - first:
+      213: -137258398027453441
+    second: terraria_211
+  - first:
+      213: 409090240726328239
+    second: terraria_212
+  - first:
+      213: 7650242700301111767
+    second: terraria_213
+  - first:
+      213: -5094460950874584493
+    second: terraria_214
+  - first:
+      213: 8987246158293362487
+    second: terraria_215
+  - first:
+      213: 8208406934620526880
+    second: terraria_216
+  - first:
+      213: 1750523673533018160
+    second: terraria_217
+  - first:
+      213: 1898415990483010331
+    second: terraria_218
+  - first:
+      213: -4294225661752685229
+    second: terraria_219
+  - first:
+      213: -564183921826454590
+    second: terraria_220
+  - first:
+      213: -2359286545065150632
+    second: terraria_221
+  - first:
+      213: 6573937648392658705
+    second: terraria_222
+  - first:
+      213: -8630888915272485578
+    second: terraria_223
+  - first:
+      213: -1146907952031566631
+    second: terraria_224
+  - first:
+      213: 3845180967808933518
+    second: terraria_225
+  - first:
+      213: 161460031237649552
+    second: terraria_226
+  - first:
+      213: 7334194901918760766
+    second: terraria_227
+  - first:
+      213: 5423911136225433762
+    second: terraria_228
+  - first:
+      213: -5339896246514419954
+    second: terraria_229
+  - first:
+      213: 1826144476770758247
+    second: terraria_230
+  - first:
+      213: 7389348482158714819
+    second: terraria_231
+  - first:
+      213: 3916425814352491727
+    second: terraria_232
+  - first:
+      213: -640646992167998271
+    second: terraria_233
+  - first:
+      213: 1563825245004382210
+    second: terraria_234
+  - first:
+      213: 7574443518911715962
+    second: terraria_235
+  - first:
+      213: -1584443383174326834
+    second: terraria_236
+  - first:
+      213: 5987041403545032208
+    second: terraria_237
+  - first:
+      213: 5822092593498008477
+    second: terraria_238
+  - first:
+      213: 3733188321738382076
+    second: terraria_239
+  - first:
+      213: -7015700673487325060
+    second: terraria_240
+  - first:
+      213: -5271785961408925898
+    second: terraria_241
+  - first:
+      213: 4363058658030314922
+    second: terraria_242
+  - first:
+      213: -705102308135830931
+    second: terraria_243
+  - first:
+      213: 726938012174939465
+    second: terraria_244
+  - first:
+      213: -4485007676802993138
+    second: terraria_245
+  - first:
+      213: -1961174598929567073
+    second: terraria_246
+  - first:
+      213: -6038596658836131879
+    second: terraria_247
+  - first:
+      213: 1709273405008480390
+    second: terraria_248
+  - first:
+      213: 8589384322965423291
+    second: terraria_249
+  - first:
+      213: 1361941053060786068
+    second: terraria_250
+  - first:
+      213: 4716167472807495198
+    second: terraria_251
+  - first:
+      213: 4927263716732076960
+    second: terraria_252
+  - first:
+      213: 367151682459995454
+    second: terraria_253
+  - first:
+      213: -4377505628820969587
+    second: terraria_254
+  - first:
+      213: -2241374072791555681
+    second: terraria_255
+  - first:
+      213: -2826412409024957456
+    second: terraria_256
+  - first:
+      213: 6990155040790122581
+    second: terraria_257
+  - first:
+      213: -790448344638593504
+    second: terraria_258
+  - first:
+      213: 8373777717749486749
+    second: terraria_259
+  - first:
+      213: -4769538665091027421
+    second: terraria_260
+  - first:
+      213: -7425236560096259550
+    second: terraria_261
+  - first:
+      213: -7443710131851462824
+    second: terraria_262
+  - first:
+      213: 6108575561096535782
+    second: terraria_263
+  - first:
+      213: 2556424100081592703
+    second: terraria_264
+  - first:
+      213: -1160910114388396388
+    second: terraria_265
+  - first:
+      213: 5572876593360079653
+    second: terraria_266
+  - first:
+      213: -5432876427561753037
+    second: terraria_267
+  - first:
+      213: 4198161966945586855
+    second: terraria_268
+  - first:
+      213: -7808766152876696762
+    second: terraria_269
+  - first:
+      213: -323861330119672409
+    second: terraria_270
+  - first:
+      213: 3328793675524691212
+    second: terraria_271
+  - first:
+      213: 8101587792738413922
+    second: terraria_272
+  - first:
+      213: 9020191642385393292
+    second: terraria_273
+  - first:
+      213: -5206618009469923179
+    second: terraria_274
+  - first:
+      213: -2653323143467504052
+    second: terraria_275
+  - first:
+      213: -5813337455260333863
+    second: terraria_276
+  - first:
+      213: -6754393651803257737
+    second: terraria_277
+  - first:
+      213: -6166117802502721966
+    second: terraria_278
+  - first:
+      213: -5251807049016170134
+    second: terraria_279
+  - first:
+      213: -8474247271106274166
+    second: terraria_280
+  - first:
+      213: -3160792760288727265
+    second: terraria_281
+  - first:
+      213: 1590734358527691843
+    second: terraria_282
+  - first:
+      213: 7908919805735154379
+    second: terraria_283
+  - first:
+      213: 2401753108033171658
+    second: terraria_284
+  - first:
+      213: -8851215122463395416
+    second: terraria_285
+  - first:
+      213: 362959699219657675
+    second: terraria_286
+  - first:
+      213: 1777734559333255921
+    second: terraria_287
+  - first:
+      213: 9143952231640843936
+    second: terraria_288
+  - first:
+      213: 4218915117566973824
+    second: terraria_289
+  - first:
+      213: 2443082822151399143
+    second: terraria_290
+  - first:
+      213: -3026558970261019168
+    second: terraria_291
+  - first:
+      213: 432928117239562171
+    second: terraria_292
+  - first:
+      213: -2390216327274317261
+    second: terraria_293
+  - first:
+      213: 8656698475925002258
+    second: terraria_294
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terraria_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ec89f651addb610800000000000000
+      internalID: 1638705625034182175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 976
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3aa8e42a69e0b0800000000000000
+      internalID: -5698907146705813547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 843
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f534edecfad5206f0800000000000000
+      internalID: -719909980754525345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 965
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d52e346ebe132d30800000000000000
+      internalID: 4405398663572891088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 947
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526afb736feb9080800000000000000
+      internalID: -9179480204903816624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 946
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529e7ba8721ca5760800000000000000
+      internalID: 7447477309385730341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 946
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38694f2157d51d520800000000000000
+      internalID: 2725062006946436739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 946
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4d3d18086260810800000000000000
+      internalID: 1731113440146347183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 944
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857ee5bfa7398b50800000000000000
+      internalID: 6595864357071910284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_9
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 944
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f16a6b38946390800000000000000
+      internalID: -7825962871507781681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 944
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f46d4e9f15b2c630800000000000000
+      internalID: 3945915370934461683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 946
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c83b8e8b79d3f0800000000000000
+      internalID: -875532800395524819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 947
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82027f1bea846ad0800000000000000
+      internalID: -2709888333320682869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 947
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeabb5e536013a520800000000000000
+      internalID: 2712029419578047210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_14
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 947
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727c35a021b9e8a30800000000000000
+      internalID: 4219480402677712679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 948
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6dd1375acf4f1e0800000000000000
+      internalID: -2164827733327227206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 948
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd69df65bb655b000800000000000000
+      internalID: 51042333402961627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_17
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 942
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d351f6d51528366e0800000000000000
+      internalID: -1845488136320248515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_18
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 888
+        width: 162
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f242b1482910e0800000000000000
+      internalID: -2298761872167208820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 950
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e0137d419471b0800000000000000
+      internalID: -5659739069868874301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 952
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde2f9f2f51ff1330800000000000000
+      internalID: 3683928411335503583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 931
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85cbc2a8fb4a91b0800000000000000
+      internalID: -5649119251327629938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 898
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d61914b3eace230800000000000000
+      internalID: 3669499365926464862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 916
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9fcbf55e0ba08d0800000000000000
+      internalID: -2879294512549791276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 891
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f85808fa34b4c0800000000000000
+      internalID: -4272725309501410952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 890
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875ee821122858a00800000000000000
+      internalID: 758155190838683000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 890
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94878f30e6db08790800000000000000
+      internalID: -7529810296752801719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 890
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d935690a2bc7da120800000000000000
+      internalID: 2426732880862794653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 888
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b6130aaabd41d0800000000000000
+      internalID: -3364828107216867155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 888
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb87f7fb341c9c0800000000000000
+      internalID: -3908768511824446507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 888
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016af6007dcc6a520800000000000000
+      internalID: 2713081049334654480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 890
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910135232b4cdbb90800000000000000
+      internalID: -7224401957604880359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_32
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 891
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ddd05e6e0f1d10800000000000000
+      internalID: 2098411818343846289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 891
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088456c52025a73c0800000000000000
+      internalID: -4361083119061350272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_34
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 891
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c5254677616660800000000000000
+      internalID: 7377291422273487588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 892
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3411d37c19d2fb0800000000000000
+      internalID: -4670916953604275216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_36
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 892
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b6998fa61cbb1c0800000000000000
+      internalID: -4486779938563069175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_37
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 872
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8dd45264acdd310800000000000000
+      internalID: 1431522659196065965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 850
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c24560447ab95c0800000000000000
+      internalID: -4207585516241802222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 884
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180349d8666a91900800000000000000
+      internalID: 655738180151292033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 888
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc9e6f26d36f81f0800000000000000
+      internalID: -1040503217329365772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 838
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669949d16e641450800000000000000
+      internalID: 6058588765256521322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 860
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b35d5dfe8acb2cc0800000000000000
+      internalID: -3734668750488775758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_43
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 835
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0a4e55a01148b0800000000000000
+      internalID: -5169832594807059528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 834
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe151483ff5f040800000000000000
+      internalID: 4680928004800637863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 834
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab4a241af9195740800000000000000
+      internalID: 5141169011490966440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 834
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e01215ac269210800000000000000
+      internalID: 1339307026673623403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 832
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4613635872ac46ef0800000000000000
+      internalID: -115745419317333660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_48
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 832
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d66c935dc709540800000000000000
+      internalID: 5012643640502545795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 832
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d64d5264b592910800000000000000
+      internalID: 1813080681833852250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 834
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54014465794f4d730800000000000000
+      internalID: 4023109297973235781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_51
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 835
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce3c5a866241860800000000000000
+      internalID: 7499661510378253507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 835
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb3e92a1bbda11b0800000000000000
+      internalID: -5684990023617856574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 835
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daefccaaa4acdca0800000000000000
+      internalID: -5990732351358899502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 836
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901d6f1a1175792c0800000000000000
+      internalID: -4424972375624855287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_55
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 836
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aced47b39f365a180800000000000000
+      internalID: -9104761149564068150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_56
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 768
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300d40382713b360800000000000000
+      internalID: 7184111291962556469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 802
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4254fe3b48b0f0800000000000000
+      internalID: -1101047375132995662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 804
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff0e723b2b378c70800000000000000
+      internalID: 8973205839275757565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 677
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193cc6e5ac719270800000000000000
+      internalID: 8255516643930421534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_60
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 811
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0e27964812fa80800000000000000
+      internalID: -8434652460648362292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_61
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 779
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c1a4e656c5e720800000000000000
+      internalID: 2874922013651225055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_62
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 778
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d52b14f6d855a0800000000000000
+      internalID: -6532234915585076925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_63
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 778
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02236bb770f267b00800000000000000
+      internalID: 825899290855879200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 778
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467062d43e7332f40800000000000000
+      internalID: 5702463002572621668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_65
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 776
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9dbfb48fb5a0c70800000000000000
+      internalID: 8938057532454984170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_66
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 776
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead70dbad7047dd0800000000000000
+      internalID: -2489356057973368092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 776
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02c7d63d91bda550800000000000000
+      internalID: 6173785952982909452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 778
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1726c9c8a15fac0800000000000000
+      internalID: -3822119517532556802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_69
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 779
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306097fa016901000800000000000000
+      internalID: 4668598034957827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 779
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2b46e185c80790800000000000000
+      internalID: -7563578412463608790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_71
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 779
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2ab338b0ca19770800000000000000
+      internalID: 8615856727582810847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_72
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 780
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4c2819c68596290800000000000000
+      internalID: -7896683248296475407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_73
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 780
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036d2054644945f0800000000000000
+      internalID: -772010663484759284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_74
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 802
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39001859e54e8da40800000000000000
+      internalID: 5393311648662487187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc10282873f03f00800000000000000
+      internalID: 1094642406845848820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 764
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d65335ce114840800000000000000
+      internalID: 5206476476535722768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_77
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 755
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf74e411c22f3400800000000000000
+      internalID: 306001512359034820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 723
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12584a7d2cd81c20800000000000000
+      internalID: 3177531624993083933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 722
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a258e293df03470800000000000000
+      internalID: 8372470129317194271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_80
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 722
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3abb03756e23e20800000000000000
+      internalID: 3328976336734364668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 723
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb90ab2484a2bb80800000000000000
+      internalID: -8380455069008487436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_82
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 724
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a71677ffd25f0e0800000000000000
+      internalID: -2236831064676795784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_83
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 768
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e877a70d6f70c0800000000000000
+      internalID: -4575818816743218288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_84
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 733
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a13c10c3706a8e40800000000000000
+      internalID: 5659441932005028258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 699
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a3e561a62bd06e0800000000000000
+      internalID: -1869642101577336235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_86
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 722
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702b30e0240aa9c0800000000000000
+      internalID: -3915312386797789067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 720
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d204ee8334e8dda0800000000000000
+      internalID: -5919730800086744367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 720
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b773b9279068d1d0800000000000000
+      internalID: -3325802122457155661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_89
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 720
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2dfd4085b05a1a0800000000000000
+      internalID: -6799015589779090756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 722
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f516c700871f5d0800000000000000
+      internalID: -3030509130761543925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_91
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 723
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad75e2f2ec9f8f620800000000000000
+      internalID: 2808269031615649754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_92
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 723
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39596cea346b33d0800000000000000
+      internalID: -3225874503843620548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_93
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 724
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd9aceafdbab5c0800000000000000
+      internalID: -4198834817159536821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_94
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 736
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd9afe1ece047f90800000000000000
+      internalID: -6956919245934780964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_95
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 648
+        width: 162
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df9497653e75df0800000000000000
+      internalID: -191434498598372070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 639
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05419c02bc5aed6e0800000000000000
+      internalID: -1810827708309367728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_97
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 712
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b8085933b06d960800000000000000
+      internalID: 7626295335177980824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_98
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 667
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48108f46b90a2f120800000000000000
+      internalID: 2446194136889950596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_99
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 666
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09adcb70c7fb03ba0800000000000000
+      internalID: -6111174154915095920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_100
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 666
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f06e7eee267f9750800000000000000
+      internalID: 6313895146538557683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 667
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a205868de72ad4b0800000000000000
+      internalID: -5414971700842003807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_102
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 668
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c37a81e7aec4180800000000000000
+      internalID: -9129664517286446078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_103
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 698
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af860a1de41fab7c0800000000000000
+      internalID: -4054663193667016454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_104
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 686
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992022f012b070f80800000000000000
+      internalID: -8140525564833168743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_105
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 643
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db5966d1e14cec0800000000000000
+      internalID: -3547677494837134078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_106
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 666
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df0fdd9b6d2f65a0800000000000000
+      internalID: -6525947394803167275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_107
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 664
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ead2b3357bad50800000000000000
+      internalID: 6749617331449291657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_108
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 664
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ae678fd94204540800000000000000
+      internalID: 4990028648023517852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_109
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 664
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611edca37feeda10800000000000000
+      internalID: 1936248169916404069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_110
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 666
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd734292126e7d160800000000000000
+      internalID: 7050356771770349532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_111
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 667
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3675024e289dd880800000000000000
+      internalID: -8584537990254725570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_112
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 667
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca4db5b4096ca60800000000000000
+      internalID: 7693995666746682483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_113
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 668
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff5e56dfefffc20800000000000000
+      internalID: 3242590621019799514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_114
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 511
+        width: 110
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888d1bd55933e060800000000000000
+      internalID: 6981486888265549952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_115
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 672
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce35c69c571b0ae0800000000000000
+      internalID: -1582145157656658231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_116
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 611
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ff016de2bf26c0800000000000000
+      internalID: -4165914397688989251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_117
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 610
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66745dec5a5728f00800000000000000
+      internalID: 1117585012541441894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_118
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 610
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e81e76989ed2540800000000000000
+      internalID: 4984897138931633670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_119
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 610
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e9c9f1d325aa00800000000000000
+      internalID: 767058696282432542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_120
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8b2d3586c4a530800000000000000
+      internalID: 3865432655749942121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_121
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c305bfd91f37550800000000000000
+      internalID: 6157530776374099097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_122
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 608
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ef9b477192e020800000000000000
+      internalID: 2369616295506207337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_123
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 610
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e5bc15057f52800800000000000000
+      internalID: 587147250783444588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_124
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 611
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1021e1951f4db8db0800000000000000
+      internalID: -4788499645731040767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_125
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 611
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb29cd8eb6b05710800000000000000
+      internalID: 1680043590548007884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_126
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 611
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fd3266b3419920800000000000000
+      internalID: 2995249677789427638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 612
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576112b9d569ac00800000000000000
+      internalID: 912372385189029717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_128
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 612
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a11f76f2ac61ec0800000000000000
+      internalID: -3596464947452634595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_129
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 646
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd612e905756876f0800000000000000
+      internalID: -686687389822609700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_130
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 565
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935bebe93a27474a0800000000000000
+      internalID: -6596521507122399943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_131
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 587
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72cc234080fa8520800000000000000
+      internalID: 2705238959862891132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_132
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 555
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2286762fb64088d0800000000000000
+      internalID: -2846197177700154833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_133
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 554
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6fddaaf30a27810800000000000000
+      internalID: 1761646599565342381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_134
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 554
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6712ff04fbd18d880800000000000000
+      internalID: -8586079982315429514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_135
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 554
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d69d72ede2e2670800000000000000
+      internalID: 8515795477090364736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_136
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 552
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc1b439438b2970800000000000000
+      internalID: 8731216653027757914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_137
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 552
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12cabe0125a32940800000000000000
+      internalID: 5270237550353236509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_138
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 552
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c948885680cd6c0800000000000000
+      internalID: -4117406727148364741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_139
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 554
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6962257daff760b0800000000000000
+      internalID: -5735334479973422742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_140
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 555
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f4a7213eb32f80800000000000000
+      internalID: -8132447383773186030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_141
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 555
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471cb8f7ce48cc50800000000000000
+      internalID: 6685680267610036047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_142
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 555
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0460a175f03e596d0800000000000000
+      internalID: -2984229523037747648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_143
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 556
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f293b9e61c33b1b0800000000000000
+      internalID: -5642099839057292559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 556
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e15af91fd6c923d0800000000000000
+      internalID: -3230832596145778202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_145
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 528
+        width: 166
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b11536363a764b00800000000000000
+      internalID: 812471156043223476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 516
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28787e8aaf772f40800000000000000
+      internalID: 5703667823599450158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_147
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 531
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272abd6129826e30800000000000000
+      internalID: 4495306154737018659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_148
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 499
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f348f23947881b470800000000000000
+      internalID: 8408652013544375359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_149
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 498
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652c2e8e4d460e90800000000000000
+      internalID: -7059870366068628118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_150
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 498
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d555e393d44ed50800000000000000
+      internalID: 6765617448471584055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_151
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 498
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37570276c5e88170800000000000000
+      internalID: 8181041363597875003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_152
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 496
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9cb4c0985939b90800000000000000
+      internalID: -7236275760404903494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_153
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 496
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25705a96c3445a0f0800000000000000
+      internalID: -1106403107188439214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_154
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 496
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0bf674b34fca680800000000000000
+      internalID: -8742344241194225422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 498
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c55c94494bb30460800000000000000
+      internalID: 7206809752081028549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_156
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 499
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717844fb447a4e3a0800000000000000
+      internalID: -6636996037128714473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_157
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 499
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b802d8efb7f152c0800000000000000
+      internalID: -4444498953621075785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_158
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 499
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3527720f1bbae70800000000000000
+      internalID: 9127584714808513507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_159
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 500
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651c4d53e4facb7b0800000000000000
+      internalID: -5207094318701690538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_160
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 500
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb690c45dc681c0800000000000000
+      internalID: -4501685013618180268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_161
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 449
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba03619ccbe4320800000000000000
+      internalID: 2544178411357645761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_162
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 345
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733b0dee5d3724f60800000000000000
+      internalID: 8017097649344787255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_163
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 475
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cbf9ef19882b240800000000000000
+      internalID: 4806053912981257306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_164
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 443
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985ecbc34821af20800000000000000
+      internalID: 3432068662680246430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_165
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 442
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cc1a7097beeefb0800000000000000
+      internalID: -4616493662956565455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_166
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 442
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216173dd38f5ff260800000000000000
+      internalID: 7133525354734884370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_167
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 442
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab812c53de5b2c0800000000000000
+      internalID: -4416363044421453280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_168
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 440
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d76e1a90b2a5c30800000000000000
+      internalID: 4348835710550572307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_169
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 440
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238a9165cc6569e0800000000000000
+      internalID: -1628776095222693076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_170
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 440
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1761513ba5f3710800000000000000
+      internalID: 1675157311604552165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_171
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 442
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60337899900c82090800000000000000
+      internalID: -8058980385716489466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_172
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 443
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa408eed1482bc0800000000000000
+      internalID: -3807721059310587974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_173
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 443
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c842021e85be410800000000000000
+      internalID: 1507396224215714867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_174
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 443
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a3cd26eff1d740800000000000000
+      internalID: 5175198810900768529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_175
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 444
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baf7164ba78b14c0800000000000000
+      internalID: -4315706648219354442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_176
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 444
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2709cdfeec2661e10800000000000000
+      internalID: 2168028911552467058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_177
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 414
+        width: 166
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f61e5c5e86a6e0800000000000000
+      internalID: -1826616071485459322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_178
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 340
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e8de53dc9d7e640800000000000000
+      internalID: 5109291777671401065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_179
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 419
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091a717f8a891d00800000000000000
+      internalID: 943937945599613188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_180
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 387
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dba8419e3e8e750800000000000000
+      internalID: 6334563466108124441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_181
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 386
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90303bbe63894de20800000000000000
+      internalID: 3374489382457377545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_182
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 386
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd14d2dadec3d9d0800000000000000
+      internalID: -2750627508157932102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_183
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893723c249fdd8230800000000000000
+      internalID: 3642813501102257048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_184
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 384
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9069b4913b0884e10800000000000000
+      internalID: 2182135526172890633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_185
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 384
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eadc1ea2f8a1e50800000000000000
+      internalID: 6780889603299454478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_186
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 384
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ceb486d7aa9d4e0800000000000000
+      internalID: -1956345107518329822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_187
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 386
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f752255feb4e75e0800000000000000
+      internalID: -1910005700660930569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_188
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 387
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef884d93cfe3f20800000000000000
+      internalID: 3404435693647756943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_189
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 387
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ea0dfcbb0cb41e0800000000000000
+      internalID: -2212462879044489720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_190
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 387
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0789c9d19c174bbb0800000000000000
+      internalID: -4921183384209942416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_191
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 388
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce271cc1626ca7bc0800000000000000
+      internalID: -3784494669857983764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_192
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 388
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d85ff440fba41f0800000000000000
+      internalID: -1059824737050063564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_193
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 363
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9271d7e01e0ef30800000000000000
+      internalID: 4602926271517108650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_194
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 331
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34e2d9f5be8fb960800000000000000
+      internalID: 7619966006765741116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_195
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 330
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc128a99819f15660800000000000000
+      internalID: 7372947949034676683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_196
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 330
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86a8a99a977dee0800000000000000
+      internalID: -1236385803340715862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_197
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 330
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda135955375c5390800000000000000
+      internalID: -7828286165633262883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_198
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 328
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7d49a812ea84cf0800000000000000
+      internalID: -267772718746380339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_199
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 328
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35672edc8a5f4c0800000000000000
+      internalID: -4254308670760397884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_200
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 328
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b058a2afaf08d90800000000000000
+      internalID: -7097397060373771498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_201
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 331
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1eb0cd04804c700800000000000000
+      internalID: 559581328363479534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_202
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 331
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86677c7fb7f9b80800000000000000
+      internalID: -8385847677007009567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_203
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 331
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0882fa1f0849050800000000000000
+      internalID: 5806407595101552851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_204
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 332
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae27888583e4f380800000000000000
+      internalID: -8938269197762875738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_205
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826741965f7b878d0800000000000000
+      internalID: -2848324499654019544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_206
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 372
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f6a167e0e8471c0800000000000000
+      internalID: -4506821134328893569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_207
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 373
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d24d27383e83eb00800000000000000
+      internalID: 856684726225552085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_208
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 343
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b837387bf55e74160800000000000000
+      internalID: 7009823544288965515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_209
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f7d2226c744f10800000000000000
+      internalID: 2253062474525309280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_210
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 307
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95b9723af3327770800000000000000
+      internalID: 8606998987540116893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_211
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 330
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb6227d63c581ef0800000000000000
+      internalID: -137258398027453441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_212
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 332
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3629f08616da500800000000000000
+      internalID: 409090240726328239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_213
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 333
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d119f4043f1b2a60800000000000000
+      internalID: 7650242700301111767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_214
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 179
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a850db1c6dc49b0800000000000000
+      internalID: -5094460950874584493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_215
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e116b3cc19bc70800000000000000
+      internalID: 8987246158293362487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_216
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 274
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029d8e5fd9e1ae170800000000000000
+      internalID: 8208406934620526880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_217
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 274
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f8d3a10c1b4810800000000000000
+      internalID: 1750523673533018160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_218
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 274
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1349acf847885a10800000000000000
+      internalID: 1898415990483010331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_219
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 272
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d4ddd2388d764c0800000000000000
+      internalID: -4294225661752685229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_220
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 272
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c32c8756bd9b28f0800000000000000
+      internalID: -564183921826454590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_221
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 272
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85778062361224fd0800000000000000
+      internalID: -2359286545065150632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_222
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 274
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fd20406715b3b50800000000000000
+      internalID: 6573937648392658705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_223
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 275
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b35d824ce83880800000000000000
+      internalID: -8630888915272485578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_224
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 275
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d476115b4d5510f0800000000000000
+      internalID: -1146907952031566631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_225
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 275
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e1853b7b3dc5530800000000000000
+      internalID: 3845180967808933518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_226
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 276
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f75ffa0f9d3200800000000000000
+      internalID: 161460031237649552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_227
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 276
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3952b76b48c560800000000000000
+      internalID: 7334194901918760766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_228
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 292
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89008f07a954b40800000000000000
+      internalID: 5423911136225433762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_229
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 293
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f011e7a0e4e5b0800000000000000
+      internalID: -5339896246514419954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_230
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 299
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e667ee9b4c75910800000000000000
+      internalID: 1826144476770758247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf54a84b4d3c8660800000000000000
+      internalID: 7389348482158714819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_232
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 252
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc476ad2780f95630800000000000000
+      internalID: 3916425814352491727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_233
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 253
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc676574f6fb17f0800000000000000
+      internalID: -640646992167998271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_234
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 228
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200464b56c2d3b510800000000000000
+      internalID: 1563825245004382210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_235
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 170
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a1ef3df34dd1960800000000000000
+      internalID: 7574443518911715962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_236
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 218
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec51d23432de20ae0800000000000000
+      internalID: -1584443383174326834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_237
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 219
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169bd19f6e361350800000000000000
+      internalID: 5987041403545032208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_238
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 218
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ba1e4fd5a3cc050800000000000000
+      internalID: 5822092593498008477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_239
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 218
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa5ad4dff2fec330800000000000000
+      internalID: 3733188321738382076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_240
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 218
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b152886933ae90800000000000000
+      internalID: -7015700673487325060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_241
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 216
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f6456699ad6d6b0800000000000000
+      internalID: -5271785961408925898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_242
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 216
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e616abb2bc8c30800000000000000
+      internalID: 4363058658030314922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_243
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 216
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a7141cf29f636f0800000000000000
+      internalID: -705102308135830931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_244
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 218
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9457a65454a961a00800000000000000
+      internalID: 726938012174939465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_245
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 219
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f141d74d02c1c0800000000000000
+      internalID: -4485007676802993138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_246
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 219
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b840d71288c4e0800000000000000
+      internalID: -1961174598929567073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_247
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 219
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df26382558923ca0800000000000000
+      internalID: -6038596658836131879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_248
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 220
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6888d811b1f88b710800000000000000
+      internalID: 1709273405008480390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_249
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 220
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c9a1888f933770800000000000000
+      internalID: 8589384322965423291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_250
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 212
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a5b00c2696e210800000000000000
+      internalID: 1361941053060786068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_251
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 213
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1641f54451337140800000000000000
+      internalID: 4716167472807495198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_252
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 162
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38c7e9e38216440800000000000000
+      internalID: 4927263716732076960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_253
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 163
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d07bb8282681500800000000000000
+      internalID: 367151682459995454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_254
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 163
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876ad7d2d9ff33c0800000000000000
+      internalID: -4377505628820969587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_255
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 162
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912d76f72a05e0e0800000000000000
+      internalID: -2241374072791555681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_256
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 176
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3bf4393e096c8d0800000000000000
+      internalID: -2826412409024957456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_257
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550933369f4020160800000000000000
+      internalID: 6990155040790122581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_258
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 160
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02665842b63c705f0800000000000000
+      internalID: -790448344638593504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_259
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 160
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941a86d772a53470800000000000000
+      internalID: 8373777717749486749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_260
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 162
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e22ccaad13fcdb0800000000000000
+      internalID: -4769538665091027421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_261
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 163
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222183e60b244f890800000000000000
+      internalID: -7425236560096259550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_262
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 163
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577404d211a2b890800000000000000
+      internalID: -7443710131851462824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_263
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 163
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee9ac2bb1506c450800000000000000
+      internalID: 6108575561096535782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_264
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 164
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796c9cac2e3a7320800000000000000
+      internalID: 2556424100081592703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_265
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 164
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96b8b7d66e93efe0800000000000000
+      internalID: -1160910114388396388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_266
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 172
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b015c3cb5d65d40800000000000000
+      internalID: 5572876593360079653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_267
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 173
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a69a7cab8a94b0800000000000000
+      internalID: -5432876427561753037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_268
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 183
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec85de01ed24a30800000000000000
+      internalID: 4198161966945586855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_269
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bd0bb7e80b1a390800000000000000
+      internalID: -7808766152876696762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_270
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 13
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad3bbd06d9618bf0800000000000000
+      internalID: -323861330119672409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_271
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 106
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0557301630423e20800000000000000
+      internalID: 3328793675524691212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_272
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 107
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d60d66c2f9e6070800000000000000
+      internalID: 8101587792738413922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_273
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 107
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86245af1882e2d70800000000000000
+      internalID: 9020191642385393292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_274
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 106
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d46891806eb7b0800000000000000
+      internalID: -5206618009469923179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_275
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 146
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eeb4fa8a08d2bd0800000000000000
+      internalID: -2653323143467504052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_276
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 104
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80cb38260e25fa0800000000000000
+      internalID: -5813337455260333863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_277
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 104
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740d1f82c29342a0800000000000000
+      internalID: -6754393651803257737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_278
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 107
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eec92378c8d6aa0800000000000000
+      internalID: -6166117802502721966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_279
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 107
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69af7e6055dd17b0800000000000000
+      internalID: -5251807049016170134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_280
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 108
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c13e2610d656a80800000000000000
+      internalID: -8474247271106274166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_281
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 132
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f2d5a2bbb9224d0800000000000000
+      internalID: -3160792760288727265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_282
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 133
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c4d04987c631610800000000000000
+      internalID: 1590734358527691843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_283
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 106
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc235e9f8a022cd60800000000000000
+      internalID: 7908919805735154379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_284
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 116
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f18a0abdb45120800000000000000
+      internalID: 2401753108033171658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_285
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 106
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f00bedba2a2580800000000000000
+      internalID: -8851215122463395416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_286
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc335c36ced790500800000000000000
+      internalID: 362959699219657675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_287
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 51
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8ef1b928cba810800000000000000
+      internalID: 1777734559333255921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_288
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 55
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6c712ab18d5ee70800000000000000
+      internalID: 9143952231640843936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_289
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 56
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087da1852f89c8a30800000000000000
+      internalID: 4218915117566973824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_290
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 57
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6613bf1e297e120800000000000000
+      internalID: 2443082822151399143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_291
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e1d5e6a08ff5d0800000000000000
+      internalID: -3026558970261019168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_292
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb75134d1120600800000000000000
+      internalID: 432928117239562171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_293
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab97c0aee34ded0800000000000000
+      internalID: -2390216327274317261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraria_294
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 4
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218dc211665c22870800000000000000
+      internalID: 8656698475925002258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 885184385c0c9b9429ef749b91cd71d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5992401966800828227
+    second: chtulu_eye_0
+  - first:
+      213: 2284354204229506475
+    second: chtulu_eye_1
+  - first:
+      213: 998730958195237082
+    second: chtulu_eye_2
+  - first:
+      213: 777716670179582309
+    second: chtulu_eye_3
+  - first:
+      213: 8953696895669934815
+    second: chtulu_eye_4
+  - first:
+      213: 2004492223199833550
+    second: chtulu_eye_5
+  - first:
+      213: -2901375684445778559
+    second: chtulu_eye_6
+  - first:
+      213: 339070106202453718
+    second: chtulu_eye_7
+  - first:
+      213: -3389183456968013472
+    second: chtulu_eye_8
+  - first:
+      213: -2861873642572260088
+    second: chtulu_eye_9
+  - first:
+      213: 4535936168134250520
+    second: chtulu_eye_10
+  - first:
+      213: -5530415341115730373
+    second: chtulu_eye_11
+  - first:
+      213: -1521956263016535862
+    second: chtulu_eye_12
+  - first:
+      213: 2589451246922790334
+    second: chtulu_eye_13
+  - first:
+      213: 1761124564112182399
+    second: chtulu_eye_14
+  - first:
+      213: -8482181917429081603
+    second: chtulu_eye_15
+  - first:
+      213: -8156780943716845226
+    second: chtulu_eye_16
+  - first:
+      213: 8803962132135227223
+    second: chtulu_eye_17
+  - first:
+      213: 7306385208428341507
+    second: chtulu_eye_18
+  - first:
+      213: -823051229859663891
+    second: chtulu_eye_19
+  - first:
+      213: 3694769446566424858
+    second: chtulu_eye_20
+  - first:
+      213: 8444910230745395848
+    second: chtulu_eye_21
+  - first:
+      213: -7600133444482761115
+    second: chtulu_eye_22
+  - first:
+      213: 8887870608606396402
+    second: chtulu_eye_23
+  - first:
+      213: -3922902575124316286
+    second: chtulu_eye_24
+  - first:
+      213: 8273075626689880219
+    second: chtulu_eye_25
+  - first:
+      213: -3047223000808877727
+    second: chtulu_eye_26
+  - first:
+      213: 2009468026887928312
+    second: chtulu_eye_27
+  - first:
+      213: -2824236209711986452
+    second: chtulu_eye_28
+  - first:
+      213: -7174835567127692292
+    second: chtulu_eye_29
+  - first:
+      213: -6189823317383019793
+    second: chtulu_eye_30
+  - first:
+      213: 1001739228530480719
+    second: chtulu_eye_31
+  - first:
+      213: -5548607896326370422
+    second: chtulu_eye_32
+  - first:
+      213: -4006096617976965314
+    second: chtulu_eye_33
+  - first:
+      213: 4124645084556772745
+    second: chtulu_eye_34
+  - first:
+      213: 7550951924636158509
+    second: chtulu_eye_35
+  - first:
+      213: -8953932496531080088
+    second: chtulu_eye_36
+  - first:
+      213: -81559966212874091
+    second: chtulu_eye_37
+  - first:
+      213: 1228704365016442541
+    second: chtulu_eye_38
+  - first:
+      213: -8606734880493756068
+    second: chtulu_eye_39
+  - first:
+      213: 2673571603604550713
+    second: chtulu_eye_40
+  - first:
+      213: -3152720993758968714
+    second: chtulu_eye_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chtulu_eye_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80c790926b6dca0800000000000000
+      internalID: -5992401966800828227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba51544bb08a3bf10800000000000000
+      internalID: 2284354204229506475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 101
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a965d3843cdd00800000000000000
+      internalID: 998730958195237082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56124f5e0310bca00800000000000000
+      internalID: 777716670179582309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9cec43ebe14c70800000000000000
+      internalID: 8953696895669934815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdebd68e0361db10800000000000000
+      internalID: 2004492223199833550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 103
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d47a8ef2e3cb7d0800000000000000
+      internalID: -2901375684445778559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b622177e94b400800000000000000
+      internalID: 339070106202453718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698ac04a9337f0d0800000000000000
+      internalID: -3389183456968013472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 101
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5d6eb5159848d0800000000000000
+      internalID: -2861873642572260088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8101d7999e1e2fe30800000000000000
+      internalID: 4535936168134250520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 101
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b361d647c840043b0800000000000000
+      internalID: -5530415341115730373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 105
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e73ba7dce0eae0800000000000000
+      internalID: -1521956263016535862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5760880349fe320800000000000000
+      internalID: 2589451246922790334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 74
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0f11d575c07810800000000000000
+      internalID: 1761124564112182399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 74
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d5639c7c394a80800000000000000
+      internalID: -8482181917429081603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f41bb2fa4dce80800000000000000
+      internalID: -8156780943716845226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 74
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f29ede9e4fd2a70800000000000000
+      internalID: 8803962132135227223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 74
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3092a8cd2ae756560800000000000000
+      internalID: 7306385208428341507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2444644fe394f0800000000000000
+      internalID: -823051229859663891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 78
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fe856c35764330800000000000000
+      internalID: 3694769446566424858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88234af9c19523570800000000000000
+      internalID: 8444910230745395848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ef90446e6e68690800000000000000
+      internalID: -7600133444482761115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 49
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff7e938a3f085b70800000000000000
+      internalID: 8887870608606396402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 55
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fff3174ec0f89c0800000000000000
+      internalID: -3922902575124316286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 39
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90eac8237edfc270800000000000000
+      internalID: 8273075626689880219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161136d53d616b5d0800000000000000
+      internalID: -3047223000808877727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 47
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9f82a168013eb10800000000000000
+      internalID: 2009468026887928312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 45
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84256712c4ec8d0800000000000000
+      internalID: -2824236209711986452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 39
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf38bc01ddd6c90800000000000000
+      internalID: -7174835567127692292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 39
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe284f8ec74591aa0800000000000000
+      internalID: -6189823317383019793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 55
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46122a5584e6ed00800000000000000
+      internalID: 1001739228530480719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 45
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0a8d14826ff2b0800000000000000
+      internalID: -5548607896326370422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37d695e95c7768c0800000000000000
+      internalID: -4006096617976965314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854191e9dead3930800000000000000
+      internalID: 4124645084556772745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8dffc4ce5ac860800000000000000
+      internalID: 7550951924636158509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c307995dd3db380800000000000000
+      internalID: -8953932496531080088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902df194ad3edef0800000000000000
+      internalID: -81559966212874091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e6ca2c1c3d0110800000000000000
+      internalID: 1228704365016442541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51a4340a3cbe8880800000000000000
+      internalID: -8606734880493756068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_40
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934bb62553f6a1520800000000000000
+      internalID: 2673571603604550713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chtulu_eye_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 14
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6748413c5f84f34d0800000000000000
+      internalID: -3152720993758968714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
