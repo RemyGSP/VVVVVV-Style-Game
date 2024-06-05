@@ -1,2 +1,3 @@
 # VVVVVV-Style-Game
- Class project where I created a similar game to VVVVVV.
+ VVVVVV like game that I made in order to learn how to work in Unity and how to make games in general
+ Assets are from Terraria
